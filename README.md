@@ -30,5 +30,4 @@ Interactive HR dashboard built with Microsoft Excel and Power Query, analyzing e
 
 ## 📫 Contact
 
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional contact email
+- **Email:** dawid.migacz2@interia.pl
